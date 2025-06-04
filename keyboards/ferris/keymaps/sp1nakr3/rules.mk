@@ -1,0 +1,5 @@
+BOOTMAGIC_ENABLE = yes      # Enable Bootmagic Lite
+TAP_DANCE_ENABLE = yes
+TAPPING_TERM = 150
+PERMISSIVE_HOLD = yes
+
